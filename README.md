@@ -93,10 +93,9 @@ How to Practice:
 
 ### What is Answer-Driven Content?
 
-Answer-driven content is structured to directly answer user queries clearly and briefly—ideal for featured snippets, voice search, and AI summaries.
+Answer-driven content is structured to directly answer user queries clearly and briefly. An Ideal way for featured snippets, voice search, and AI summaries.
 
 Resources:
-- [Content Harmony: Answer Targeting](https://www.contentharmony.com/blog/answer-engine-optimization/)
 - [AlsoAsked.com](https://alsoasked.com/)
 
 How to Practice:
@@ -109,7 +108,7 @@ How to Practice:
 ## 5. Optimize Internal Linking and Semantic Context
 
 Resources:
-- [Moz Guide to Topical Authority](https://moz.com/blog/topical-authority)
+- [Guide to Topical Authority](https://ahrefs.com/blog/topical-authority/)
 - Screaming Frog or Sitebulb for crawling and finding orphaned pages
 
 How to Practice:
