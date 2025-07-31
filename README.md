@@ -2,8 +2,6 @@
 
 A beginner-friendly guide to mastering SEO with a focus on Answer Engine Optimization (AEO) and optimizing for AI-driven systems like Google SGE, Bing Copilot, and ChatGPT search integrations.
 
-Goal: Equip marketers, SEO practitioners, and content strategists with tools and skills to make their content easily discoverable, understood, and surfaced by AI-driven systems.
-
 ---
 
 ## What You'll Learn
@@ -47,8 +45,7 @@ AEO (Answer Engine Optimization) is the process of optimizing your website conte
 An entity is a thing (person, place, concept) with a unique identity. Google builds its understanding of content through these.
 
 Resources:
-- [What are entities in SEO? (Yoast)](https://yoast.com/entities-seo/)
-- [Entity SEO by Kalicube (YouTube)](https://www.youtube.com/watch?v=r6F1DPl53r8)
+- [What are entities in SEO? (Yoast)](https://www.clearscope.io/blog/what-is-an-entity-in-SEO)
 
 How to Practice:
 - Use [Kalicube Pro](https://kalicube.pro/) or [Google’s Knowledge Graph API](https://developers.google.com/knowledge-graph) to explore entities.
@@ -58,12 +55,12 @@ How to Practice:
 
 ## 2. Understand How LLMs Consume Content
 
-### What is AI SEO?
+### What is AI SEO or AIO or AEO or GEO?
 
 AI SEO is about structuring content that is understandable by large language models and provides clear, factual, structured answers.
 
 Resources:
-- [How to optimize content for AI answers (Surfer SEO)](https://surferseo.com/blog/ai-seo/)
+- [How to optimize content for AI answers (Surfer SEO)]([https://surferseo.com/blog/ai-seo/](https://www.icecubedigital.com/blog/seo-revolution-2025-integrating-aio-geo-aeo-sxo-for-explosive-growth/))
 
 How to Practice:
 - Prompt ChatGPT with a blog post and ask:  
@@ -80,7 +77,7 @@ How to Practice:
 Structured data (such as JSON-LD from Schema.org) helps search engines and AI systems understand your content programmatically.
 
 Resources:
-- [Google: Introduction to Structured Data](https://developers.google.com/search/docs/appearance/structured-data/intro)
+- [Google: Introduction to Structured Data](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)
 - [Schema Markup Validator](https://validator.schema.org/)
 - [Merkle's Schema Generator](https://technicalseo.com/tools/schema-markup-generator/)
 
