@@ -145,6 +145,26 @@ How to Practice:
 
 ---
 
+## NEW: Section on Google Search Console
+
+### What is Google Search Console?
+
+Google Search Console is a free tool from Google that lets website owners monitor indexing, fix site issues, submit sitemaps, and analyze search performance.  
+Key features: performance reports, coverage errors, sitemap submission, enhancements, links, and security alerts.  
+:contentReference[oaicite:8]{index=8}
+
+### How to Use It (Basic Steps):
+
+1. **Verify your site** ownership (via DNS, HTML tag, etc.).
+2. **Submit your sitemap** to help Google discover your pages faster.
+3. **Monitor Performance Reports**: review queries, clicks, impressions, index coverage.
+4. **Check Enhancements**: see structured data detected by Google and fix any errors.
+5. **Track Trends**: monitor CTR, average position, and impressions over time.
+6. **Inspect URLs**: use URL Inspection to check if a page is indexed or eligible for rich results.  
+:contentReference[oaicite:9]{index=9}
+
+---
+
 ## Sample Project: Practice AEO on a Blog Post
 
 Objective: Take a regular blog post and turn it into AI-friendly, structured content.
