@@ -45,7 +45,7 @@ AEO (Answer Engine Optimization) is the process of optimizing your website conte
 An entity is a thing (person, place, concept) with a unique identity. Google builds its understanding of content through these.
 
 Resources:
-- [What are entities in SEO? (Yoast)](https://www.clearscope.io/blog/what-is-an-entity-in-SEO)
+- [What are entities in SEO?](https://www.clearscope.io/blog/what-is-an-entity-in-SEO)
 
 How to Practice:
 - Use [Kalicube Pro](https://kalicube.pro/) or [Google’s Knowledge Graph API](https://developers.google.com/knowledge-graph) to explore entities.
@@ -157,17 +157,6 @@ Steps:
 5. Ask ChatGPT or Bing Copilot to summarize the page.
 6. Submit the page to Search Console for reindexing.
 7. Monitor impressions and keyword rankings over 2-3 weeks.
-
----
-
-## Additional Learning Resources
-
-- [Kalicube Academy (Answer Engine Optimization)](https://academy.kalicube.com/)
-- [Google: How AI Works in Search](https://blog.google/products/search/search-generative-experience-ai/)
-- [Surfer SEO Guide to AI SEO](https://surferseo.com/blog/ai-seo/)
-- [SEO For AI-Powered Search (Moz)](https://moz.com/blog/seo-for-ai-powered-search)
-
----
 
 ## Contributing
 
