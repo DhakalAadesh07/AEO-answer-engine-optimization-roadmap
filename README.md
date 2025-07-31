@@ -151,7 +151,6 @@ How to Practice:
 
 Google Search Console is a free tool from Google that lets website owners monitor indexing, fix site issues, submit sitemaps, and analyze search performance.  
 Key features: performance reports, coverage errors, sitemap submission, enhancements, links, and security alerts.  
-:contentReference[oaicite:8]{index=8}
 
 ### How to Use It (Basic Steps):
 
@@ -161,7 +160,6 @@ Key features: performance reports, coverage errors, sitemap submission, enhancem
 4. **Check Enhancements**: see structured data detected by Google and fix any errors.
 5. **Track Trends**: monitor CTR, average position, and impressions over time.
 6. **Inspect URLs**: use URL Inspection to check if a page is indexed or eligible for rich results.  
-:contentReference[oaicite:9]{index=9}
 
 ---
 
