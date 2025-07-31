@@ -60,7 +60,7 @@ How to Practice:
 AI SEO is about structuring content that is understandable by large language models and provides clear, factual, structured answers.
 
 Resources:
-- [How to optimize content for AI answers (Surfer SEO)](https://www.icecubedigital.com/blog/seo-revolution-2025-integrating-aio-geo-aeo-sxo-for-explosive-growth/)
+- [How to optimize content for AI answers](https://www.icecubedigital.com/blog/seo-revolution-2025-integrating-aio-geo-aeo-sxo-for-explosive-growth/)
 
 How to Practice:
 - Prompt ChatGPT with a blog post and ask:  
