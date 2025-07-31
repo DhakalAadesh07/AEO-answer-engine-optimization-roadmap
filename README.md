@@ -175,6 +175,4 @@ Steps:
 
 ## Contributing
 
-This roadmap is designed for ongoing learning and team collaboration. You can fork the repository, adapt the roadmap to your industry, or add new tools and workflows.
-
-Pull requests are welcome.
+This roadmap is designed for ongoing learning and team collaboration. Pull requests are welcome.
